@@ -6,7 +6,7 @@ This is a python wrapper around the extended-sparsification solver.
 Working
 ------------
 
-	1.Install python along with numpy and ctypes modules.
+	1.Install python along with numpy and ctypes modules.<br />
 	2.Compile the main file(spam.cpp) as shared library 
 	::
 		g++ -fopenmp -shared -o spam.so -fPIC spam.cpp -I header/
@@ -17,8 +17,8 @@ Working
 	  
 Input
 ------------
-	System Size, N:
-	Rank, r:
+	System Size, N:<br />
+	Rank, r:<br />
 	type of matrix, HODLR/HSS:
 
 Output
@@ -27,7 +27,7 @@ Output
 
 System 
 ------------
-	Python 2.7.12
+	Python 2.7.12<br />
 	g++ 5.4.0 
 	
 
