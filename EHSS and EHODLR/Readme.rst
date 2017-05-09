@@ -1,7 +1,7 @@
 Python bindings to the solver using foreign function 'ctypes'
 =============================================================
 
-This is a python wrapper around the extended-sparsification solver.
+This is a python wrapper around the extended-sparsification solver for HODLR and HSS matrices.
 
 Working
 ------------
