@@ -18,7 +18,8 @@ Working
 ------------
 
 	1.Run the script s.sh
-	:: sh s.sh
+	:: 
+	sh s.sh
 	2. Edit the system parameters in the script itself. 
 
 	3. The script runs makefile.mk and save the executables in the exec folder. 
